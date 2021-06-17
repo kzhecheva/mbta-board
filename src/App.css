@@ -1,0 +1,13 @@
+.App {
+	background-image: url(images/Cortlandt-Street-subway-station-opening-World-Trade-Center-MTA-NYC_11.jpg);
+	background-size: cover;
+	display: flex;
+	align-items: center;
+	justify-content: top;
+	flex-direction: column;
+	height: 100vh;
+}
+
+.board {
+	margin-top: 8rem;
+}

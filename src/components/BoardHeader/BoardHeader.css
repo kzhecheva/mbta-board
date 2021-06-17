@@ -1,0 +1,14 @@
+.container-header {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: flex-start;
+	margin: 5px 10px 0px 10px;
+	height: 6vh;
+	color: #ffb400;
+	font-weight: 500;
+}
+
+.title-header {
+	color: white;
+}

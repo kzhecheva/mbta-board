@@ -1,0 +1,19 @@
+.container-board {
+	background-image: linear-gradient(to top left, #000000, #333333);
+	width: 65vw;
+	height: 45vh;
+	font-family: "Roboto Mono", monospace;
+	border-radius: 5;
+	overflow: hidden;
+}
+
+.departuresHeader-board {
+	color: white;
+	font-size: 80%;
+	text-align: left;
+}
+
+.table-board {
+	width: 100%;
+	margin: 10px;
+}
