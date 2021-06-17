@@ -1,6 +1,6 @@
 # MBTA South Station Board
 
-![mbta_board_screenshot](images/MBTA.svg.png)
+![mbta_board_screenshot](images/Cortlandt-Street-subway-station-opening-World-Trade-Center-MTA-NYC_11.jpg)
 
 ## Overview
 
